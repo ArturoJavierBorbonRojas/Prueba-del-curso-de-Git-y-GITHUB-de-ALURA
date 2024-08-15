@@ -6,3 +6,5 @@ Para ejecutar el sistema, debes poner:
 ```npm install react``
 
 Aquí explicamos con un ejemplo muy simbólico cómo funciona nuestro código a personas.
+
+Sistema de Registro 2
